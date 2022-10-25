@@ -1,33 +1,15 @@
-# Hi, I'm Marc Gruber :wave:
+<h1 align="center">Hi 👋, I'm Marc Gruber</h1>
+<h3 align="center">👨‍💻 Developer from Tarragona, Spain</h3>
 
-### 👨‍💻 Developer from Tarragona, Spain
+- 🌱 I’m currently learning and improve in **react, nodejs, laravel,math,english**
 
-<!-- <img src="banner.png" alt="banner"> -->
+- 📫 How to reach me **mgruberlopez@gmail.com**
 
-Hi, I'm a 21 years old **junior fullstack**. Right now I'm finishing the web development grade at the insitut vidal i barraquer.
-
-<br/>
-
-***For me programming is an art***, the more time you spend the simpler you see it and the more improvements you can
-think of.
-
-<div align="center">
-  <a href="https://github.com/MarcGruber">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=MarcGruber&show_icons=true&include_all_commits=true&count_private=true&custom_title=My%20GitHub%20Stats"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcGruber&layout=compact&langs_count=10""/>
-</div>
-	<br><br>
-You can find me 🌍:
-	<br><br>
-																    
-
-<a href="https://www.linkedin.com/in/marc-gruber-lopez/" target="_blank">
-   <img align="center" src="https://img.icons8.com/color/344/linkedin.png" alt="linkedin marc" height="45em" width="55em" />
-</a>
-
-<a href="https://twitter.com/GruberLopez" target="blank"><img align="center" src="https://img.icons8.com/fluency/344/twitter.png" alt="twitter of marc" height="45em" width="55em" /></a>
-																
-<a href="mailto:mgruberlopez@gmail.com " target="blank"><img align="center" src="https://img.icons8.com/color/344/gmail--v1.png" alt="gmail para marc" height="45em" width="55em" /></a>
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/gruberlopez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gruberlopez" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/marc-gruber-lopez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/marc-gruber-lopez/" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
