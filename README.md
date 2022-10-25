@@ -18,6 +18,6 @@ think of.
 </div>
 	
 You can find me 🌍:
-	<br>
+	<br><br>
 	 [<img height="30em" src="https://img.icons8.com/fluency/344/linkedin.png"/>](https://www.linkedin.com/in/marc-gruber-lopez/) 
 	 [<img height="30em" src="https://cdn-icons-png.flaticon.com/512/733/733579.png"/>](https://twitter.com/GruberLopez)
