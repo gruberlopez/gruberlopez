@@ -16,7 +16,7 @@ think of.
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=MarcGruber&show_icons=true&include_all_commits=true&count_private=true&custom_title=My%20GitHub%20Stats"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcGruber&layout=compact&langs_count=10""/>
 </div>
-	
+	<br><br>
 You can find me 🌍:
 	<br><br>
 	 [<img height="30em" src="https://img.icons8.com/fluency/344/linkedin.png"/>](https://www.linkedin.com/in/marc-gruber-lopez/) 
