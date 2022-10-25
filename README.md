@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Marc Gruber</h1>
-<h3 align="center">👨‍💻 Developer from Tarragona, Spain</h3>
+<h3 align="center">👨‍💻 Developer Web Junior from Tarragona, Spain</h3>
 
-- 🌱 I’m currently learning and improve in **react, nodejs, laravel,math,english**
+<p>I'm a 21 year old fullstack junior eager to learn and improve.  Right now I'm finishing my higher degree in web development. I'm also always trying to learn other technologies on my own. </p>
+
+- 🌱 I’m currently learning and improve in **react, nodejs, laravel,math and english**
 
 - 📫 How to reach me **mgruberlopez@gmail.com**
 
