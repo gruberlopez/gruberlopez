@@ -19,5 +19,15 @@ think of.
 	<br><br>
 You can find me 🌍:
 	<br><br>
-	 [<img height="30em" src="https://img.icons8.com/fluency/344/linkedin.png"/>](https://www.linkedin.com/in/marc-gruber-lopez/) 
-	 [<img height="30em" src="https://cdn-icons-png.flaticon.com/512/733/733579.png"/>](https://twitter.com/GruberLopez)
+																    
+
+<a href="https://www.linkedin.com/in/marc-gruber-lopez/" target="_blank">
+   <img align="center" src="https://img.icons8.com/color/344/linkedin.png" alt="linkedin marc" height="45em" width="55em" />
+</a>
+
+<a href="https://twitter.com/GruberLopez" target="blank"><img align="center" src="https://img.icons8.com/fluency/344/twitter.png" alt="twitter of marc" height="45em" width="55em" /></a>
+																
+<a href="mailto:mgruberlopez@gmail.com " target="blank"><img align="center" src="https://img.icons8.com/color/344/gmail--v1.png" alt="gmail para marc" height="45em" width="55em" /></a>
+
+</p>
+
