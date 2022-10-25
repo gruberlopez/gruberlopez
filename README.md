@@ -14,7 +14,7 @@ think of.
 <div align="center">
   <a href="https://github.com/MarcGruber">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=MarcGruber&show_icons=true&include_all_commits=true&count_private=true&custom_title=My%20GitHub%20Stats"/>
-  <img height="165em" src=""/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcGruber&layout=compact&langs_count=10""/>
 </div>
 	
 You can find me 🌍:
