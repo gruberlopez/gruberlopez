@@ -4,7 +4,7 @@
 
 <!-- <img src="banner.png" alt="banner"> -->
 
-Hi, I'm a 21 years old **junior fullstack**. Right now I'm finishing the web development cycle at the insitut vidal i barraquer.
+Hi, I'm a 21 years old **junior fullstack**. Right now I'm finishing the web development grade at the insitut vidal i barraquer.
 
 <br/>
 <!--
