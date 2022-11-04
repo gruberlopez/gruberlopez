@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **mgruberlopez@gmail.com**
 
-- 📫 My repo **[gruberlopez.com](https://gruberlopez.netlify.app/)**
+- ⚡ My repo **[gruberlopez.com](https://gruberlopez.netlify.app/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
