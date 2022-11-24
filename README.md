@@ -5,7 +5,7 @@
 
 - 🌱 Actualmente estoy aprendiendo y mejorando en **react, nodejs, laravel,matemáticas e inglés**.
 
-- 📫 Puedes contactar conmigo atraves de mi correo -> **mgruberlopez@gmail.com**
+- 📫 Puedes contactar conmigo a través de mi correo -> **mgruberlopez@gmail.com**
 
 - ⚡ Mi repositorio **[gruberlopez.com](https://gruberlopez.netlify.app)**
 
