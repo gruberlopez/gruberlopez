@@ -9,7 +9,7 @@
 
 - ⚡ Mi repositorio **[gruberlopez.com](https://gruberlopez.netlify.app)**
 
-- Actualmente estoy haciendo practicas en **ASTEIA Seguridad** haciendo una funcionalidad en php desde 0 usando symphony, mysql y por ultimo haciendo el deploy de la funcionalidad. Paralelamente estoy haciendo el curso de freecodecamp de JS & react y el segundo año de daw.
+- Actualmente estoy haciendo practicas en **ASTEIA Seguridad** haciendo una funcionalidad en php desde 0 usando laravel, mysql y por ultimo haciendo el deploy de la funcionalidad. Paralelamente estoy haciendo el curso de freecodecamp de JS & react y el segundo año de daw.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
