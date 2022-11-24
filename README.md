@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Marc Gruber</h1>
 <h3 align="center">👨‍💻 Developer Web Junior from Tarragona, Spain</h3>
 
-<p>I'm a 21 year old fullstack junior eager to learn and improve.  Right now I'm finishing my higher degree in web development. I'm also always trying to learn other technologies on my own. </p>
+<p>Soy un junior fullstack de 21 años con ganas de aprender y mejorar.  Ahora mismo estoy terminando mi grado superior en desarrollo web. También estoy siempre intentando aprender otras tecnologías por mi cuenta. Tengo pensado trabajar mientras me saco la ingenieria informatica en la UOC para mejorar aún más </p>
 
-- 🌱 I’m currently learning and improve in **react, nodejs, laravel,math and english**
+- 🌱 Actualmente estoy aprendiendo y mejorando en **react, nodejs, laravel,matemáticas e inglés**.
 
-- 📫 How to reach me **mgruberlopez@gmail.com**
+- 📫 Puedes contactar conmigo atraves de mi correo -> **mgruberlopez@gmail.com**
 
-- ⚡ My repo **[gruberlopez.com](https://gruberlopez.netlify.app)**
+- ⚡ Mi repositorio **[gruberlopez.com](https://gruberlopez.netlify.app)**
+
+- Actualmente estoy haciendo practicas en **ASTEIA Seguridad** haciendo una funcionalidad en php desde 0 usando symphony, mysql y por ultimo haciendo el deploy de la funcionalidad. Paralelamente estoy haciendo el curso de freecodecamp de JS & react y el segundo año de daw.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
