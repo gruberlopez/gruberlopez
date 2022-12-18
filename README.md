@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marc Gruber</h1>
 <h3 align="center">👨‍💻 Developer Web Junior from Tarragona, Spain</h3>
 
-<p>Soy un junior fullstack de 21 años con ganas de aprender y mejorar.  Ahora mismo estoy terminando mi grado superior en desarrollo web. También estoy siempre intentando aprender otras tecnologías por mi cuenta. Tengo pensado trabajar mientras me saco la ingenieria informatica en la UOC para mejorar aún más </p>
+<p>Soy un desarrollador full stack junior de 21 años, con una gran pasión por aprender y mejorar. Actualmente estoy finalizando mi grado superior en desarrollo web y siempre estoy buscando nuevas oportunidades para aprender nuevas tecnologías por mi cuenta. Mi objetivo es trabajar mientras estudio ingeniería informática en la UOC para seguir mejorando mis habilidades.</p>
 
 - 🌱 Actualmente estoy aprendiendo y mejorando en **react, nodejs, laravel,matemáticas e inglés**.
 
