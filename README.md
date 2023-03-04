@@ -3,13 +3,14 @@
 
 <p>Soy un desarrollador full stack junior de 21 años, con una gran pasión por aprender y mejorar. Actualmente estoy finalizando mi grado superior en desarrollo web y siempre estoy buscando nuevas oportunidades para aprender nuevas tecnologías por mi cuenta. Mi objetivo es trabajar mientras estudio ingeniería informática en la UOC para seguir mejorando mis habilidades.</p>
 
-- 🌱 Actualmente estoy aprendiendo y mejorando en **react, nodejs, laravel,matemáticas e inglés**.
+
+- Actualmente estoy haciendo practicas en **ASTEIA Seguridad** haciendo una funcionalidad en php desde 0 usando laravel, mysql y por ultimo haciendo el deploy de la funcionalidad. Paralelamente estoy haciendo el curso de freecodecamp de JS & react y el segundo año de daw.
 
 - 📫 Puedes contactar conmigo a través de mi correo -> **mgruberlopez@gmail.com**
 
 - ⚡ Mi repositorio **[gruberlopez.com](https://gruberlopez.netlify.app)**
 
-- Actualmente estoy haciendo practicas en **ASTEIA Seguridad** haciendo una funcionalidad en php desde 0 usando laravel, mysql y por ultimo haciendo el deploy de la funcionalidad. Paralelamente estoy haciendo el curso de freecodecamp de JS & react y el segundo año de daw.
+- 🌱 Actualmente estoy aprendiendo y mejorando en **react, nodejs, laravel,matemáticas e inglés**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
