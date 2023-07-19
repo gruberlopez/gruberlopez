@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Marc Gruber</h1>
 <h3 align="center">👨‍💻 Developer Web Junior from Tarragona, Spain</h3>
 
-<p>Soy un desarrollador full stack junior de 21 años, con una gran pasión por aprender y mejorar. Actualmente estoy finalizando mi grado superior en desarrollo web y siempre estoy buscando nuevas oportunidades para aprender nuevas tecnologías por mi cuenta. Mi objetivo es trabajar mientras estudio ingeniería informática en la UOC para seguir mejorando mis habilidades.</p>
+<p>Soy un desarrollador full stack junior de 21 años, con una gran pasión por aprender y mejorar. </p>
+<p>Trabajando como desarrollador de software en el ICIQ ( https://www.iochem-bd.org/ ) . </p>
 
 
 - 📫 Puedes contactar conmigo a través de mi correo -> **mgruberlopez@gmail.com**
