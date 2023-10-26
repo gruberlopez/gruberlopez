@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marc Gruber</h1>
-<h3 align="center">👨‍💻 Developer Web Junior from Tarragona, Spain</h3>
+<h3 align="center">👨‍💻 Web Developer Junior from Tarragona, Spain</h3>
 
 <p>Soy un desarrollador full stack junior de 21 años, con una gran pasión por aprender y mejorar. </p>
 <p>Trabajando como desarrollador de software en el ICIQ ( https://www.iochem-bd.org/ ) . </p>
