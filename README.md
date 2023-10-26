@@ -9,6 +9,8 @@
 
 - ⚡ Mi repositorio **[gruberlopez.com](https://gruberlopez.netlify.app)**
 
+- ⚙️ Trabajando para mantener y mejorar el ioChemBD
+
 - 🌱 Actualmente estoy aprendiendo y mejorando en **Java, Zkoss/Zul , Javascript ,cytoscape e inglés**.
 
 <h3 align="left">Connect with me:</h3>
