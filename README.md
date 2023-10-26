@@ -9,7 +9,7 @@
 
 - ⚡ Mi repositorio **[gruberlopez.com](https://gruberlopez.netlify.app)**
 
-- 🌱 Actualmente estoy aprendiendo y mejorando en **react, nodejs, laravel,matemáticas e inglés**.
+- 🌱 Actualmente estoy aprendiendo y mejorando en **Java, Zkoss/Zul , Javascript ,cytoscape e inglés**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
