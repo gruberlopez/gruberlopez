@@ -7,9 +7,9 @@
 
 - ⚙️ Trabajando para mantener y mejorar el ioChemBD
 
-- 🌱 Actualmente estoy aprendiendo y mejorando en **Java, Zkoss/Zul , Javascript ,cytoscape e inglés**.
-
 - ⚡ Mi repositorio **[gruberlopez.com](https://gruberlopez.netlify.app)**
+
+- 🌱 Actualmente estoy aprendiendo y mejorando en **Java, Zkoss/Zul , Javascript ,cytoscape e inglés**.
 
 - 📫 Puedes contactar conmigo a través de mi correo -> **mgruberlopez@gmail.com**
 
