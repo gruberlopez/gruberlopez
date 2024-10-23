@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Marc Gruber</h1>
 <h3 align="center">👨‍💻 Web Developer Junior from Tarragona, Spain</h3>
 
-<p>Soy un desarrollador full stack junior de 23 años, con una gran pasión por aprender y mejorar. </p>
-<p>Trabajando como desarrollador de software en el ICIQ ( https://www.iochem-bd.com/ ) . </p>
+<p>I'm 23 year old junior full stack developer with a great passion for learning and improving. </p>
+<p>Working as a software developer at  [ioChem-BD]( https://www.iochem-bd.com/ ) . </p>
 
 
-- ⚙️ Trabajando para mantener y mejorar ioChem-BD
+- ⚙️ Working to maintain and improve ioChem-BD
 
-- ⚡ Mi repositorio **[gruberlopez.com](https://gruberlopez.netlify.app)**
+- ⚡ My repository **[gruberlopez.com](https://gruberlopez.netlify.app)**
 
-- 🌱 Actualmente estoy estudiando la ingenieria informatica mientras trabajo.
+- 🌱 I am currently studying computer engineering while working.
 
-- 📫 Puedes contactar conmigo a través de mi correo -> **mgruberlopez@gmail.com**
+- 📫 You can contact me through my e-mail address -> **mgruberlopez@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
