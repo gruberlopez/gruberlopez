@@ -1,16 +1,13 @@
 <h1 align="center">Hi 👋, I'm Marc Gruber</h1>
-<h3 align="center">👨‍💻 Web Developer Junior from Tarragona, Spain</h3>
+<h3 align="center">👨‍💻 Backend Develop JAVA</h3>
 
 <p>Soy un desarrollador backend con una gran pasión por el aprendizaje continuo y la mejora constante. Actualmente, trabajo en el sector de la química computacional programando herramientas para visualización y análisis de datos.</p>
 
-
-- ⚙️ Working to maintain and improve ioChem-BD
-
 - ⚡ My repository **[gruberlopez.com](https://gruberlopez.netlify.app)**
 
-- 🌱 I am currently studying computer engineering while working.
+- 🌱 Estoy estudiando la ingenieria informatica.
 
-- 📫 You can contact me through my e-mail address -> **mgruberlopez@gmail.com**
+- 📫 Puedes contactar conmigo a traves de este email -> **mgruberlopez@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
