@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Marc Gruber</h1>
+<h1 align="center">Hola 👋, Soy Marc Gruber</h1>
 <h3 align="center">👨‍💻 Backend Develop JAVA</h3>
 
 <p>Soy un desarrollador backend con una gran pasión por el aprendizaje continuo y la mejora constante. Actualmente, trabajo en el sector de la química computacional programando herramientas para visualización y análisis de datos.</p>
