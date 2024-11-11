@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marc Gruber</h1>
 <h3 align="center">👨‍💻 Web Developer Junior from Tarragona, Spain</h3>
 
-<p>I'm 23 year old junior full stack developer with a great passion for learning and improving. </p>
-<p>Working as a software developer at  [ioChem-BD]( https://www.iochem-bd.com/ ) . </p>
+<p>Soy un desarrollador backend con una gran pasión por el aprendizaje continuo y la mejora constante. Actualmente, trabajo en el sector de la química computacional programando herramientas para visualización y análisis de datos.</p>
 
 
 - ⚙️ Working to maintain and improve ioChem-BD
