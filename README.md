@@ -3,7 +3,7 @@
 
 <p>Soy un desarrollador backend con una gran pasión por el aprendizaje continuo y la mejora constante. Actualmente, trabajo en el sector de la química computacional programando herramientas para visualización y análisis de datos.</p>
 
-- ⚡ My repository **[gruberlopez.com](https://gruberlopez.netlify.app)**
+- ⚡ My repository **[gruberlopez.com](www.gruberlopez.com)**
 
 - 🌱 Estoy estudiando la ingenieria informatica.
 
