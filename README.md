@@ -1,13 +1,13 @@
-<h1 align="center">Hola 👋, Soy Marc Gruber</h1>
+<h1 align="center">Hello 👋, I'm Marc Gruber</h1>
 <h3 align="center">👨‍💻 Backend Developer JAVA</h3>
 
-<p>Soy un desarrollador backend con una gran pasión por el aprendizaje continuo y la mejora constante. Actualmente, trabajo en el sector de la química computacional programando herramientas para visualización y análisis de datos.</p>
+<p>I am a backend developer passionate about continuous learning and constant improvement. I currently work in the computational chemistry sector, where I develop advanced visualization and data analysis tools, as well as contribute to the optimization and improvement of key applications.</p>
 
 - ⚡ My repository **[gruberlopez.com](https://gruberlopez.com)**
 
-- 🌱 Estoy estudiando la ingenieria informatica.
+- 🌱  I am studying computer engineering online.
 
-- 📫 Puedes contactar conmigo a traves de este email -> **mgruberlopez@gmail.com**
+- 📫 You can contact me through this e-mail address -> **mgruberlopez@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
